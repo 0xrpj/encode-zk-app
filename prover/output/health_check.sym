@@ -1,0 +1,8 @@
+1,1,0,main.status
+2,2,0,main.current_date
+3,3,0,main.national_identity_number
+4,4,0,main.is_full_body_checked_up
+5,5,0,main.has_chronic_disease
+6,-1,0,main.checked_up_status
+7,-1,0,main.disease_status
+8,-1,0,main.healthy

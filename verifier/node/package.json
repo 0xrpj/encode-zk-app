@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshan PJ",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.12",
+    "jsqr": "^1.4.0",
+    "qrcode-reader": "^1.0.4"
+  }
+}
